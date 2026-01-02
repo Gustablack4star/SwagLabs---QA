@@ -1,1 +1,13 @@
+Documento 1: Fluxo de Trabalho e Ciclo do Bug
+O projeto utiliza o modelo Scrum no Jira.
 
+Workflow:
+Itens Pendentes ->
+Em Andamento -> Carrinho de compras 
+Concluído'-> Login
+
+Ciclo de Vida do Bug: Explique as etapas: Aberto (Novo) -> Em Correção -> Reteste -> Fechado.
+
+Documento 2: User Stories
+História 1:Como usuário cadastrado, quero acessar a plataforma com meu usuário e senha para realizar compras.
+História 2: Como um cliente da Swag Labs, quero selecionar itens da vitrine e adicioná-los ao meu carrinho, para que eu possa salvá-los e revisar minha lista antes de finalizar a compra.
